@@ -1,7 +1,18 @@
-# Hi there, I'm Daniel Hulio Saptianus! 👋
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniel-hulio-saptianus-73a764294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:huliosaptianusdaniel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=220&section=header&text=Daniel%20Hulio%20Saptianus&fontSize=40&animation=fadeIn" alt="Capsule Render Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Junior+Backend+Engineer;NestJS+%E2%80%A2+Laravel+%E2%80%A2+Express;PostgreSQL+%E2%80%A2+MySQL;Clean+Architecture+%E2%80%A2+Testing" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-hulio-saptianus-73a764294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:huliosaptianusdaniel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
@@ -17,8 +28,10 @@ I am a **Junior Backend Engineer** who is passionate about designing, building, 
 
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 Languages & Runtimes
+#### 💻 Frontend & Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -50,6 +63,17 @@ I am a **Junior Backend Engineer** who is passionate about designing, building, 
 
 ---
 
+### 🎓 Academic & University Coursework
+These are the core subjects and concepts I mastered during my university studies:
+
+*   **🌐 Web & Application Development:** Web Programming (HTML5, CSS3, JavaScript), Object-Oriented Programming (OOP), Distributed Application Development.
+*   **🗃️ Data & Databases:** Database Systems, Advanced Database Technology, Data Mining & Warehousing, Information Retrieval.
+*   **🛠️ Software Engineering Lifecycle:** Software Requirements Engineering, Software Design & Modeling, Software Construction, Software Quality Assurance, Software Verification & Validation, IT Project Management.
+*   **💻 Theoretical Computer Science:** Data Structures & Algorithms, Operating Systems, Computer Networks, Discrete Mathematics.
+*   **🧠 Intelligent Systems & Math:** Artificial Intelligence, Machine Learning, Linear Algebra, Probability & Statistics.
+
+---
+
 ### 💼 Professional Experience
 
 #### **Backend Engineer Intern**
@@ -71,10 +95,6 @@ I am a **Junior Backend Engineer** who is passionate about designing, building, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielhs00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhs00&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Daniel's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielhs00&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Streak" />
 </p>
 
 ---
