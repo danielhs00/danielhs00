@@ -93,7 +93,7 @@ These are the core subjects and concepts I mastered during my university studies
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="390" />
 </p>
 
 ---
