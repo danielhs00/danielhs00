@@ -90,11 +90,10 @@ These are the core subjects and concepts I mastered during my university studies
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielhs00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhs00&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Daniel's Top Languages" width="48%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
